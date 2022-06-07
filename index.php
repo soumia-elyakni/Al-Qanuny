@@ -4,7 +4,7 @@
 
     $home = new HomeController();
 
-    $pages = ['home', 'Tableau'];
+    $pages = ['home','loginAdmin', 'Tableau','nouveauxJuristes','juristeListe','demandes','rendezVous'];
 
     if(isset($_GET['page'])){
         if(in_array($_GET['page'],$pages)){
