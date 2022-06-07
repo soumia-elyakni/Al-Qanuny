@@ -1,7 +1,7 @@
 <?php
 
 class UserControllers {
-    public function getAllUsres(){
+    public function getAllUsers(){
         $users = user::getAll();
         return $users;
     }
