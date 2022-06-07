@@ -72,19 +72,19 @@
                     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                           <div class="carousel-item  active">
-                            <img src="../img/mr_nobody_new.svg" class="d-block w-30" alt="...">
+                            <img src=<?php echo dirname("Al-Qanuny/views/img/mr_nobody_new.svg")?> class="d-block w-30" alt="...">
                             <span class="text-center">الاسم الكامل</span>
                           </div>
                           <div class="carousel-item  ">
-                            <img src="../img/mr_nobody_new.svg" class="d-block w-30" alt="...">
+                            <img src="img/mr_nobody_new.svg" class="d-block w-30" alt="...">
                             <span>الاسم الكامل</span>
                           </div>
                           <div class="carousel-item  ">
-                            <img src="../img/mr_nobody_new.svg" class="d-block w-30" alt="...">
+                            <img src="img/mr_nobody_new.svg" class="d-block w-30" alt="...">
                             <span>الاسم الكامل</span>
                           </div>
                           <div class="carousel-item  ">
-                            <img src="../img/mr_nobody_new.svg" class="d-block w-30" alt="...">
+                            <img src="img/mr_nobody_new.svg" class="d-block w-30" alt="...">
                             <span>الاسم الكامل</span>
                           </div>
                         </div>
@@ -106,19 +106,19 @@
                       
                       <div class="carousel-inner">
                         <div class="carousel-item active">
-                          <img src="./img/mr_nobody_new.svg" class="d-block w-30" alt="...">
+                          <img src="img/mr_nobody_new.svg" class="d-block w-30" alt="...">
                           <span>الاسم الكامل</span>
                         </div>
                         <div class="carousel-item">
-                          <img src="./img/mr_nobody_new.svg" class="d-block w-30" alt="...">
+                          <img src="img/mr_nobody_new.svg" class="d-block w-30" alt="...">
                           <span>الاسم الكامل</span>
                         </div>
                         <div class="carousel-item">
-                          <img src="./img/mr_nobody_new.svg" class="d-block w-30" alt="...">
+                          <img src="img/mr_nobody_new.svg" class="d-block w-30" alt="...">
                           <span>الاسم الكامل</span>
                         </div>
                         <div class="carousel-item">
-                          <img src="./img/mr_nobody_new.svg" class="d-block w-30" alt="...">
+                          <img src="img/mr_nobody_new.svg" class="d-block w-30" alt="...">
                           <span>الاسم الكامل</span>
                         </div>
                       </div>

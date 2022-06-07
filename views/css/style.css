@@ -10,7 +10,7 @@ body{
 }
 
 .back-img{
-    background-image: url(../img/bg-img.png);
+    background-image: url(img/bg-img.png);
     -webkit-background-size:cover;
     background-size: cover;
     background-position: center center;
